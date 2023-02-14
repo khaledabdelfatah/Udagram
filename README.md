@@ -6,4 +6,4 @@ Hi! This is **Udacity Cloud DevOps** Nanodegree 2nd Project: Udagram** which foc
 
 ## Project Structure
 
-![Project Diagram](https://raw.githubusercontent.com/khaledabdelfatah/Udagram/main/Udagram-Udacity2ndProject.jpeg?token=GHSAT0AAAAAAB4URKYWPCWYCXZCKNEBCIEKY7LLAYQ)
+![Project Diagram](https://github.com/khaledabdelfatah/Udagram/blob/main/Images/Udagram-Udacity2ndProject.jpeg?raw=true)
